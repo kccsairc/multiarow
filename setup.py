@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="multiarow",
+    name="multiarow2",
     version="0.2",
-    url="https://github.com/AlpacaDB/multiarow",
+    url="https://github.com/kccsairc/multiarow",
     description="Multiclass AROW implementation",
     author="AlpacaDB, Inc.",
     license='MIT',
